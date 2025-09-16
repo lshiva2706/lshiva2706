@@ -7,8 +7,8 @@
 - 👨‍💻 Delivered **real-time GIS dashboards** with Mapbox, Kepler.gl, and REST APIs that boosted platform accuracy and engagement by 40%.
 - 📊 Passionate about **scalable pipelines, predictive modeling, and geospatial visualization** that drive decision-making.
 - 📝 I regularly share insights on [Medium](https://medium.com/@shivachowdary27j).
-- 💬 Ask me about **GeoAI, geoprocessing, ML for spatial-temporal data, or interactive mapping platforms.**
-- 📫 Reach me at **lsandh3@uic.edu**
+- 💬 Ask me about **GeoAI, Geoprocessing, ML for spatial-temporal data, or interactive mapping platforms.**
+- 📫 Reach me at **shivachowdary27j@gmail.com**
 - 📄 Learn more about my experiences [here](https://drive.google.com/file/d/1areFPh6gJGqZcis8h-4Ivmw3DMy5_857/view?usp=sharing)
 
 ---
