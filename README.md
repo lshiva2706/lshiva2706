@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandhireddy Laxmi Shiva Prasad</h1>
 <h3 align="center">GeoAI Developer | GIS Data Scientist | Full-Stack Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1auLqVJ8z3gNczm7VCmhp8ZOb_o3nz9Tj/view?usp=drive_link">
 
 - 🔭 Currently building **CUDA-accelerated GeoAI tools** at KiloNewton to cut terrain analysis runtimes from hours to minutes for solar projects over 70MW.
 - 🌱 Exploring **spatial ML models & energy yield optimization** with PyTorch, Scikit-learn, and Databricks RasterFrames.
