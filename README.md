@@ -9,7 +9,7 @@
 - 📝 I regularly share insights on [Medium](https://medium.com/@shivachowdary27j).
 - 💬 Ask me about **GeoAI, Geoprocessing, ML for spatial-temporal data, or interactive mapping platforms.**
 - 📫 Reach me at **shivachowdary27j@gmail.com**
-- 📄 Learn more about my experiences [here]([https://drive.google.com/file/d/1areFPh6gJGqZcis8h-4Ivmw3DMy5_857/view?usp=sharing](https://drive.google.com/file/d/1zT0EhuTUVxCDSCNEUTQVT5SQm_Xv1wDX/view?usp=sharing))
+- 📄 Learn more about my experiences [here]((https://drive.google.com/file/d/1zT0EhuTUVxCDSCNEUTQVT5SQm_Xv1wDX/view?usp=sharing))
 
 ---
 
