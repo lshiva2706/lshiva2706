@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandhireddy Laxmi Shiva Prasad</h1>
+<h1 align="center">Hi 👋, I'm Laxmi Shiva Prasad Sandhireddy</h1>
 <h3 align="center">Geospatial AI/ML Engineer | Geospatial Data Scientist | GIS Full-Stack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1_IBcxkx1eDipPMsmP8aOR6A_j1Hywg5N">
 
